@@ -9,7 +9,7 @@ This project explores the relationship between education levels and personal inc
 4. Which counties have the lowest income and highest education levels?
 
 ## 📁 Files Included
-- `education_vs_income.ipynb`: Full analysis notebook
+- `EduVsIncome.ipynb`: Full analysis notebook
 - `cleaned_income_education.csv`: Cleaned dataset
 - `plots.zip`: All visualizations generated in the notebook
 
